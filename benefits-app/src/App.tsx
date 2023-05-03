@@ -5,7 +5,7 @@ import "./App.css";
 
 const { Configuration, OpenAIApi } = require("openai");
 const configuration = new Configuration({
-  apiKey: "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",
+  apiKey: "",
   //process.env.OPENAI_API_KEY,
 });
 
